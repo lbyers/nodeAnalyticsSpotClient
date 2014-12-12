@@ -1,0 +1,26 @@
+{
+  "name": "node-analytics-spot-client",
+  "version": "0.1.1",
+  "description": "Client code for pushing events to Analytics Spot",
+  "main": "./lib/analytics-spot-client.js",
+  "dependencies": {
+    "node-uuid": "1.x.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lbyers/nodeAnalyticsSpotClient.git"
+  },
+  "keywords": [
+    "Analytics Spot",
+    "client"
+  ],
+  "author": "Louis Byers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lbyers/nodeAnalyticsSpotClient/issues"
+  },
+  "homepage": "https://github.com/lbyers/nodeAnalyticsSpotClient"
+}
